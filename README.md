@@ -32,7 +32,7 @@
 ## How to Run
 
 1. Download or clone this repository.
-2. Install the required Python packages listed in `requirements.txt`.
+2. Install the required Python packages.
 3. Open `Practical work.ipynb` in Jupyter Notebook.
 4. Place the input images in the same working directory as the notebook:
    - `Black_and_white_butterfly.png` for the first set of experiments.
