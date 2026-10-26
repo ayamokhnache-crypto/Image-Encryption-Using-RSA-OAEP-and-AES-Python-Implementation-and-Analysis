@@ -1,0 +1,2 @@
+# Image-Encryption-Using-RSA-OAEP-and-AES-Python-Implementation-and-Analysis
+A comparative study of three image encryption approaches: RSA, RSA with OAEP padding, and a hybrid RSAOAEP-AES scheme. The main objective is to analyze their security strength and computational efficiency when applied to images. The methods are evaluated using histogram analysis, correlation coefficients,entropy, and execution time measurements.
